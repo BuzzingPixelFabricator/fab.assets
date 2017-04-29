@@ -1,0 +1,24 @@
+{
+    "name": "fab.assets",
+    "version": "1.1.0",
+    "description": "Dynamic JS and CSS asset loading",
+    "homepage": "https://github.com/BuzzingPixelFabricator/fab.assets",
+    "bugs": "https://github.com/BuzzingPixelFabricator/fab.assets/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BuzzingPixelFabricator/fab.assets.git"
+    },
+    "license": "Apache-2.0",
+    "author": "BuzzingPixel, LLC",
+    "contributors": [
+        {
+            "name": "TJ Draper",
+            "url": "https://buzzingpixel.com"
+        }
+    ],
+    "fabricatorJsBuild": {
+        "files": [
+            "src/FAB.assets.js"
+        ]
+    }
+}

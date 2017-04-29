@@ -4,6 +4,12 @@ While this component is designed with the [BuzzingPixel Fabricator Build Process
 
 Asset loading is the concept of loading JavaScript or CSS resources after the page has loaded, and running a callback function once the assets have successfully loaded.
 
+## Usage
+
+With Fabricator and NPM, simply require this library into your project and restart the Fabricator Grunt build process.
+
+If you are not using Fabricator, you will need to in some mannor compile `src/FAB.assets.js` into your build process or put it somewhere where you can link it into your projects.
+
 ## `FAB.assets.load();`
 
 Method takes one argument: an object.
