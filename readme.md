@@ -8,6 +8,8 @@ Asset loading is the concept of loading JavaScript or CSS resources after the pa
 
 With Fabricator and NPM, simply require this library into your project and restart the Fabricator Grunt build process.
 
+`npm install fab.assets --save`
+
 If you are not using Fabricator, you will need to in some manner compile `src/FAB.assets.js` into your build process or put it somewhere where you can link it into your projects.
 
 ## `FAB.assets.load();`
