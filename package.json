@@ -1,6 +1,6 @@
 {
     "name": "fab.assets",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Dynamic JS and CSS asset loading",
     "homepage": "https://github.com/BuzzingPixelFabricator/fab.assets",
     "bugs": "https://github.com/BuzzingPixelFabricator/fab.assets/issues",

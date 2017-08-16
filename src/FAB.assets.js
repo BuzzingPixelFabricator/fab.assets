@@ -124,4 +124,4 @@ window[window.FABNAMESPACE] = window.window[window.FABNAMESPACE] || {};
             new Load(options); // jshint ignore: line
         }
     };
-})(window.FAB, document);
+})(window[window.FABNAMESPACE], document);
